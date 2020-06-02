@@ -1,18 +1,27 @@
 /* style.css */
 body{
-  background: rgb(265,245,245);
+  background: rgb(250,245,245);
   color: black;
   font-size: 16px;
-  font-family: Times New Roman;
-}
-h1{
   font-family: Arial;
+}
+
+header{
+  font-family: 'Source Sans Pro', sans-serif;
+  color: green;
+  font-weight: bold;
+  font-size: 26px;
+}
+
+h1 {
+  font-family: 'Source Sans Pro', sans-serif;
   color: green;
   font-weight: bold;
   font-size: 22px;
 }
+
 h2 {
-  font-family: Arial;
+  font-family: 'Source Sans Pro', sans-serif;
   color: green;
   font-weight: bold;
   font-size: 18px;
@@ -23,4 +32,25 @@ a {
 a:hover {
   text-decoration: none;
   color: orange;
+}
+
+#baseline {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: green;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.grey-title {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: grey;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.grey-paragraph {
+  color: grey;
+  font-size: 16px;
+  font-family: Arial;
+  font-style: italic; 
 }
