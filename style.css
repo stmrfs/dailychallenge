@@ -1,42 +1,42 @@
 /* style.css */
 body{
-  background: rgb(250,245,245);
-  color: black;
-  font-size: 16px;
+  background: white;
+  color: #202020;
+  font-size: 14px;
   font-family: Arial;
 }
 
 header{
-  font-family: 'Source Sans Pro', sans-serif;
-  color: green;
+  font-family: 'Dancing Script', cursive;
+  color: #264110;
   font-weight: bold;
-  font-size: 26px;
+  font-size: 36px;
 }
 
 h1 {
   font-family: 'Source Sans Pro', sans-serif;
-  color: green;
+  color: #264110;
   font-weight: bold;
-  font-size: 22px;
+  font-size: 20px;
 }
 
 h2 {
   font-family: 'Source Sans Pro', sans-serif;
-  color: green;
+  color: rgb(150, 149, 125);
   font-weight: bold;
   font-size: 18px;
 }
 a {
-  color: blue;
+  color: grey;
 }
 a:hover {
   text-decoration: none;
-  color: orange;
+  color: rgb(175, 154, 92);
 }
 
 #baseline {
   font-family: 'Source Sans Pro', sans-serif;
-  color: green;
+  color: #264110;
   font-weight: bold;
   font-size: 18px;
 }
@@ -49,8 +49,8 @@ a:hover {
 }
 
 .solution-paragraph {
-  color: rgb(250,245,245);
-  font-size: 16px;
+  color: white;
+  font-size: 14px;
   font-family: Arial;
   font-style: italic; 
 }
